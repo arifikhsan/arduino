@@ -1,5 +1,6 @@
 {
     "port": "COM4",
     "board": "arduino:avr:uno",
-    "programmer": "Arduino as ISP"
+    "programmer": "Arduino as ISP",
+    "sketch": "led\\always_on\\always_on.ino"
 }
